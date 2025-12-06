@@ -8,4 +8,5 @@ Groups :
 5. Fahmi
 6. Ivan
 
-Responsibility
+Responsibility :
+1. creating ML pipeline
