@@ -9,3 +9,6 @@ Groups :
 6. Ivan
 
 Responsibility
+1. EDA
+2. Create Pipeline
+3. Analyst the data
