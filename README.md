@@ -2,7 +2,7 @@
 
 Groups :
 1. Reynold
-2. Viky
+2. Viky Stevenlay
 3. Zaky
 4. Ajeng
 5. Fahmi
