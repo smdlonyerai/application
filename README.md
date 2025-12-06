@@ -8,4 +8,9 @@ Groups :
 5. Fahmi
 6. Ivan
 
-Responsibility
+
+## TODO
+
+1. Create endpoints for inference using trained model (REST API)
+2. Dockerize and deploy API
+3. Monitor model performance
